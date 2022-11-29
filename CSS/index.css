@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&family=Raleway:ital,wght@0,400;1,500&display=swap');
+*{
+    margin:0;
+    font-family: 'Chelsea Market';
+} 
+.body{
+    background-color: #fdeeae;
+    font-weight:bold;
+}
