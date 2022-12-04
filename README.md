@@ -1,8 +1,5 @@
-Repo for Oasis infobyte internship
-<br>
-position Front end web developer
-<br>
-Using Figma
+
+Using Figma for this website
 <br>
 link:https://heartfelt-licorice-fc914a.netlify.app
 
