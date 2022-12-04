@@ -4,7 +4,7 @@
     display: flex;
     justify-content: space-around;
     height:10vmin;
-    width:100vw;
+    width:100%;
     position:fixed;
     z-index: 10;
 }
